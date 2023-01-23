@@ -359,13 +359,13 @@ ul.menu-col li a:focus{
     nav.main-menu ul.menu li > ul.mega-submenu li a:hover{
         background-color: transparent;
     }
-    nav.main-menu li.mega-menu-item a.mega-menu-link:after{
+    /* nav.main-menu li.mega-menu-item a.mega-menu-link:after{
         font-family: 'FontAwesome';
         content: "\f105";
         float: right;
         font-size: 16px;
         margin-left: 10px;
-    }
+    } */
     nav.main-menu li.mega-menu-item.on > a.mega-menu-link:after{
         content: "\f107";
     }
