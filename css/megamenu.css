@@ -361,8 +361,6 @@ ul.menu-col li a:focus{
     }
     nav.main-menu li.mega-menu-item a.mega-menu-link:after{
         font-family: 'FontAwesome';
-        content: "\f105";
-        display:"none";
         float: right;
         font-size: 16px;
         margin-left: 10px;
